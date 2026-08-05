@@ -1,10 +1,11 @@
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/198e3bf6-64f2-4dc7-be62-84cba6614786" />
 
-![Uploading image.png…]()
+
 
 <!--
 **MEGURINELUKA02/MEGURINELUKA02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/a03a72fa-48aa-44c9-a931-c1f983c7e3bc" />
-https://imgur.com/a/UrahUZv
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
