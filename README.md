@@ -1,7 +1,7 @@
 
 <img width="750" height="530" alt="image" src="https://github.com/user-attachments/assets/c959cd43-3748-48c0-ab6e-f0a5db1c8d04" />
 
-
+hello its machu heh, those are my cool friends hah im so cool hahaha okay i dunno what to add here
 
 <!--
 **MEGURINELUKA02/MEGURINELUKA02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
